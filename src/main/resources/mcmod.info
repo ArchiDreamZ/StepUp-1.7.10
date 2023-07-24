@@ -5,7 +5,7 @@
   "description": "Allows for stepping up 1 block height without having to jump. Client sided mod that works on singleplayer and some multiplayer servers.",
   "version": "1.0.2-1.7.10",
   "mcversion": "forge-1.7.10-10.13.4.1558-1.7.10",
-  "url": "",
+  "url": "https://github.com/ArchiDreamZ/StepUp-1.7.10",
   "updateUrl": "",
   "authorList": ["NotTooManyItems、Archi_DreamZ"],
   "credits": "NotTooManyItems、Archi_DreamZ",
